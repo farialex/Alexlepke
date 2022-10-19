@@ -1,0 +1,30 @@
+.tartalom{
+    border:1px solid gray;
+    width: 58%
+
+
+}
+
+
+
+div{
+    border: 1px solid gray
+}
+
+span{
+    color: pink;
+}
+#menu{
+    width:100%;
+    backgroung-color: bisque
+}
+body {
+    margin: ;
+}
+ul{
+    margin:0;
+}
+a{
+border: 2px dotted lemonchiffon;
+padding:  3px;
+}

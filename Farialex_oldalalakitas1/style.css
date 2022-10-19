@@ -1,0 +1,29 @@
+.lepke1 img{
+float: right;
+}
+.lepke2 img{
+    float: left;
+}
+.lepke3 img{
+    float: right
+}
+#container{
+    width: 80%;
+    max-width: 80%;
+    margin: auto;
+background-color: rgb(47, 79, 78);
+}
+.töröl{
+    clear: both;
+}
+body{
+    background-image: url(hatterem1.jpg);
+}
+h1{
+    text-align: center;
+}
+#menu li:hover a{
+color: rgb(243, 230, 230);
+background-color: rgb(108, 108, 140);
+cursor: grab;
+}
